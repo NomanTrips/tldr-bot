@@ -1,5 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
+import './bootstrap.bundle.min.js';
+import './bootstrap.min.css';
 
 /* eslint-disable no-new */
 new Vue({
